@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="RunKeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Running 9/12/13 3:50 pm]]></name>
+  <time>2013-09-12T15:50:29Z</time>
+<trkseg>
+<trkpt lat="53.308055000" lon="-6.228524000"><ele>24.4</ele><time>2013-09-12T15:50:29Z</time></trkpt>
+<trkpt lat="53.308055000" lon="-6.228537000"><ele>24.3</ele><time>2013-09-12T15:50:30Z</time></trkpt>
+<trkpt lat="53.308011000" lon="-6.228660000"><ele>24.3</ele><time>2013-09-12T15:50:38Z</time></trkpt>
+<trkpt lat="53.307983000" lon="-6.228801000"><ele>24.3</ele><time>2013-09-12T15:50:44Z</time></trkpt>
+<trkpt lat="53.307960000" lon="-6.228938000"><ele>24.2</ele><time>2013-09-12T15:50:53Z</time></trkpt>
+<trkpt lat="53.307875000" lon="-6.229002000"><ele>24.2</ele><time>2013-09-12T15:51:08Z</time></trkpt>
+<trkpt lat="53.307807000" lon="-6.229089000"><ele>24.2</ele><time>2013-09-12T15:51:15Z</time></trkpt>
+<trkpt lat="53.307750000" lon="-6.229204000"><ele>24.1</ele><time>2013-09-12T15:51:18Z</time></trkpt>
+<trkpt lat="53.307725000" lon="-6.229375000"><ele>24.0</ele><time>2013-09-12T15:51:21Z</time></trkpt>
+<trkpt lat="53.307710000" lon="-6.229513000"><ele>24.0</ele><time>2013-09-12T15:51:24Z</time></trkpt>
+<trkpt lat="53.307718000" lon="-6.229653000"><ele>23.9</ele><time>2013-09-12T15:51:27Z</time></trkpt>
+<trkpt lat="53.307734000" lon="-6.229808000"><ele>23.8</ele><time>2013-09-12T15:51:31Z</time></trkpt>
+<trkpt lat="53.307773000" lon="-6.229946000"><ele>23.7</ele><time>2013-09-12T15:51:34Z</time></trkpt>
+<trkpt lat="53.307790000" lon="-6.230095000"><ele>23.5</ele><time>2013-09-12T15:51:37Z</time></trkpt>
+<trkpt lat="53.307780000" lon="-6.230258000"><ele>23.4</ele><time>2013-09-12T15:51:40Z</time></trkpt>
+<trkpt lat="53.307769000" lon="-6.230414000"><ele>23.3</ele><time>2013-09-12T15:51:44Z</time></trkpt>
+<trkpt lat="53.307728000" lon="-6.230547000"><ele>23.2</ele><time>2013-09-12T15:51:48Z</time></trkpt>
+<trkpt lat="53.307728000" lon="-6.230703000"><ele>23.1</ele><time>2013-09-12T15:51:51Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
